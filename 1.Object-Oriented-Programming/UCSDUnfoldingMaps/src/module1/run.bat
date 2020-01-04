@@ -1,0 +1,3 @@
+@echo off
+javac -classpath C:\Users\agoddard\Documents\JavaProjects\Coursera\UCSD\Data-Structures-and-Beyond-Specialization\1.Object-Oriented-Programming\UCSDUnfoldingMaps\src\module1;C:\Users\agoddard\Documents\JavaProjects\Coursera\UCSD\Data-Structures-and-Beyond-Specialization\1.Object-Oriented-Programming\UCSDUnfoldingMaps\lib\* HelloWorld.java
+if not errorlevel 1 java -cp C:\Users\agoddard\Documents\JavaProjects\Coursera\UCSD\Data-Structures-and-Beyond-Specialization\1.Object-Oriented-Programming\UCSDUnfoldingMaps\src;C:\Users\agoddard\Documents\JavaProjects\Coursera\UCSD\Data-Structures-and-Beyond-Specialization\1.Object-Oriented-Programming\UCSDUnfoldingMaps\lib\* module1.HelloWorld
